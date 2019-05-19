@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" // stands for formater
 
 func main() {
 	fmt.Println("Hello World")
